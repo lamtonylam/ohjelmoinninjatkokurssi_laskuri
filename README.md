@@ -1,0 +1,2 @@
+# ohjelmoinninjatkokurssi_laskuri
+Ohjelmoinnin jatkokurssin arvosanalaskuri Pythonilla
